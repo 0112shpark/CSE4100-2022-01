@@ -7,4 +7,4 @@ Shell Programming
 Concurrent Server
 
 ## Project 3
-malloc lab
+malloc lab(score 95/segregate list)
